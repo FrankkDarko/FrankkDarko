@@ -13,7 +13,7 @@
 
 ## 🚀 À propos de moi
 
-- 🎮 Je développe des **scripts C# pour VRChat** (Unity / UdonSharp)
+- 🎮 Je développe des **scripts C# pour VRChat** (Unity / UdonSharp) — voir [VRCDevKit](https://github.com/FrankkDarko/VRCDevKit)
 - 🌐 Je crée des **petites WebApps** utiles et légères (JavaScript, Next.js)
 - 🌱 J'explore en continu l'écosystème **Next.js** et le web moderne
 - 📫 Retrouvez-moi sur mon site : [frankkdarko.github.io](https://frankkdarko.github.io)
@@ -33,6 +33,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+## 🎮 VRChat
+
+| Projet | Description | Techno |
+|--------|-------------|--------|
+| 🧰 [**VRCDevKit**](https://github.com/FrankkDarko/VRCDevKit) | Boîte à outils complète pour les créateurs VRChat | TypeScript |
 
 ## ✨ Mes WebApps
 
