@@ -6,6 +6,7 @@
 
 [![Site web](https://img.shields.io/badge/🌐_Mon_site-frankkdarko.github.io-2ea44f?style=for-the-badge)](https://frankkdarko.github.io)
 [![Profil GitHub](https://img.shields.io/github/followers/FrankkDarko?label=Followers&style=for-the-badge&logo=github)](https://github.com/FrankkDarko)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenez_moi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/frankkdarko)
 
 </div>
 
@@ -44,6 +45,7 @@
 
 | Projet | Description | Techno |
 |--------|-------------|--------|
+| 🍪 [**CookieCleaner**](https://github.com/FrankkDarko/CookieCleaner) | Outil de nettoyage de cookies | JavaScript |
 | 🖼️ [**AutomaticCensor**](https://github.com/FrankkDarko/AutomaticCensor) | Censure automatique d'éléments d'une image, personnalisable | JavaScript |
 | 📱 [**QRgenerator**](https://github.com/FrankkDarko/QRgenerator) | Générateur de QR codes stylisés | JavaScript |
 | 💱 [**ConvertCurrency**](https://github.com/FrankkDarko/ConvertCurrency) | Convertisseur de devises gratuit | JavaScript |
@@ -76,5 +78,7 @@
 <div align="center">
 
 💬 *N'hésitez pas à explorer mes dépôts et à laisser une ⭐ si un projet vous plaît !*
+
+☕ *Vous appréciez mon travail ? Vous pouvez me soutenir sur [Ko-fi](https://ko-fi.com/frankkdarko) !*
 
 </div>
