@@ -66,8 +66,8 @@
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=FrankkDarko&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
-![Langages les plus utilisés](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrankkDarko&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
+![Stats GitHub](https://github-readme-stats.zohan.tech/api?username=FrankkDarko&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+![Langages les plus utilisés](https://github-readme-stats.zohan.tech/api/top-langs/?username=FrankkDarko&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
 
 ![Série de contributions](https://streak-stats.demolab.com?user=FrankkDarko&theme=tokyonight&hide_border=true&locale=fr)
 
